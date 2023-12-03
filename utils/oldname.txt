@@ -1,0 +1,16 @@
+src1 <= x2mate.com-Mua hàng online, thật giả lẫn lộn _ VTV24
+src2 <= x2mate.com-Hệ lụy đau lòng khi người tâm thần chưa được quản lý tại cộng đồng _ VTV24
+src3 <= x2mate.com-Bé trai nhiễm vi khuẩn hiếm gặp từ bùn đất _ VTV24
+src4 <= x2mate.com-Ẩn họa thuốc lá điện tử _ VTV24
+src5 <= x2mate.com-Chủ đầu tư mang đất của khách hàng đi thế chấp ngân hàng _ VTV24
+src6 <= x2mate.com-Lấn chiếm diện tích chung làm khu tập GYM, chỗ nhậu nhẹt _ VTV24
+src7 <= x2mate.com-Sắp đón không khí lạnh mạnh nhất từ đầu mùa, Miền Bắc có nơi rét dưới 11 độ C _ VTV24
+src8 <= x2mate.com-Tình hình nhân đạo thảm khốc tại Gaza, người dân đang ở đỉnh điểm tuyệt vọng _ VTV24
+src9 <= x2mate.com-Khám phá dấu mộc Goshuin - nét văn hóa đền chùa tại Nhật Bản _ VTV24
+src10 <= x2mate.com-Miền Bắc đêm nay rét buốt _ VTV24
+src11 <= x2mate.com-Nhiễm độc da toàn thân do dùng thuốc nam _ VTV24
+src12 <= x2mate.com-Màn hình điện thoại tắt nhưng vẫn bị chiếm quyền vét sạch tiền trong tài khoản _ VTV24
+src13 <= x2mate.com-Tháng 11 rồi mà miền Bắc vẫn nóng, nguyên nhân vì sao thế
+src14 <= x2mate.com-Mua khóa 3 lần, tem nhãn đầy đủ nhưng tất cả đều là khóa giả _ VTV24(720p)
+src15 <= x2mate.com-Góc khuất về thu nhập khủng từ livestream bán hàng _ VTV24
+src16 <= x2mate.com-Cảnh báo nguy hiểm từ người tiểu đường mắc sốt xuất huyết _ VTV24(720p)
